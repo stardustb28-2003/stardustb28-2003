@@ -1,16 +1,29 @@
-## Hi there 👋
+[README.md](https://github.com/user-attachments/files/31962068/README.md)
+### Full-Stack Developer · Perú 🇵🇪
 
-<!--
-**stardustb28-2003/stardustb28-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador full-stack en formación, enfocado en arquitectura de bases de datos y desarrollo de interfaces centradas en el usuario.
+Next.js · TypeScript · Supabase.
 
-Here are some ideas to get you started:
+[Portfolio](https://brayancondepalomino.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/brayan-aldair-conde-palomino-292a5b399/) · [Email](mailto:StardustB28@hotmail.com) · [WhatsApp](https://wa.me/+51933233888)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+
+![Stack](https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,supabase,firebase,figma,git,github,vercel,postman&theme=dark)
+
+También: Diseño de experiencia de usuario · Análisis de datos · Modelado relacional/NoSQL
+
+---
+
+### Projects
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| **María Luisa Nutricionista** | Plataforma web comercial para servicios de nutrición preventiva, con tienda, reservas y autenticación segura. | Next.js · Supabase · TypeScript |
+
+---
+
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<sub>© 2026 Conde Palomino Brayan</sub>
