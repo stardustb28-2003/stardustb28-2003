@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31971056/README.md)
+[README.md](https://github.com/user-attachments/files/31971070/README.md)
 <div align="center">
 
 ![banner](https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=250&width=1200&bannerText=Hello%2C+I+am+Brayan+!👋)
@@ -16,11 +16,7 @@ Next.js · TypeScript · Supabase.
 
 ### Stack
 
-![Stack](https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,supabase,firebase,figma,git,github,vercel,postman&theme=dark)
-
-**Aprendiendo actualmente:**
-
-![Learning](https://skillicons.dev/icons?i=mongodb,python&theme=dark)
+![Stack](https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,supabase,firebase,mongodb,python,figma,git,github,vercel,postman,vscode&theme=dark)
 
 También: Diseño de experiencia de usuario · Análisis de datos · Modelado relacional/NoSQL
 
