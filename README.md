@@ -1,4 +1,10 @@
-[README.md](https://github.com/user-attachments/files/31962068/README.md)
+[README.md](https://github.com/user-attachments/files/31970688/README.md)
+<div align="center">
+
+![banner](https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=250&width=1200&bannerText=Hello%2C+I+am+Brayan+!👋)
+
+</div>
+
 ### Full-Stack Developer · Perú 🇵🇪
 
 Desarrollador full-stack en formación, enfocado en arquitectura de bases de datos y desarrollo de interfaces centradas en el usuario.
@@ -11,6 +17,10 @@ Next.js · TypeScript · Supabase.
 ### Stack
 
 ![Stack](https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,supabase,firebase,figma,git,github,vercel,postman&theme=dark)
+
+**Aprendiendo actualmente:**
+
+![Learning](https://skillicons.dev/icons?i=mongodb,python&theme=dark)
 
 También: Diseño de experiencia de usuario · Análisis de datos · Modelado relacional/NoSQL
 
